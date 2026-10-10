@@ -1,1 +1,0 @@
-# nvidia-market-analytics-capstone
